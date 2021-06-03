@@ -4,33 +4,41 @@ class ListNode:
         self.next = next
 
     def __repr__(self):
-        return f"LN: {self.val}"
+        n = ""
+        if self.next:
+            n = self.next.__repr__()
+
+        return f"{self.val} -> {n}"
+
+    def __eq__(self, other):
+        return self.val == other.val
 
 
 class Solution:
-    # def addTwoNumbers(self, l1: ListNode, l2: ListNode) -> ListNode:
-    #     d3 = list()
-    #
-    #     d3.append(l1.val)
-    #     while l1.next:
-    #         d3.append(l1.next.val)
-    #         l1 = l1.next
-    #
-    #     d1 = int("".join([str(d3.pop()) for i in range(len(d3))]))
-    #
-    #     d3.append(l2.val)
-    #     while l2.next:
-    #         d3.append(l2.next.val)
-    #         l2 = l2.next
-    #
-    #     d2 = int("".join([str(d3.pop()) for i in range(len(d3))]))
-    #
-    #     ls = [ListNode(int(i)) for i in str(d1 + d2)[::-1]]
-    #
-    #     for i, n in enumerate(ls[:-1]):
-    #         n.next = ls[i + 1]
-    #
-    #     return ls[0]
+    def addTwoNumbers1(self, l1: ListNode, l2: ListNode) -> ListNode:
+        d3 = list()
+
+        d3.append(l1.val)
+        while l1.next:
+            d3.append(l1.next.val)
+            l1 = l1.next
+
+        d1 = int("".join([str(d3.pop()) for i in range(len(d3))]))
+
+        d3.append(l2.val)
+        while l2.next:
+            d3.append(l2.next.val)
+            l2 = l2.next
+
+        d2 = int("".join([str(d3.pop()) for i in range(len(d3))]))
+
+        ls = [ListNode(int(i)) for i in str(d1 + d2)[::-1]]
+
+        for i, n in enumerate(ls[:-1]):
+            n.next = ls[i + 1]
+
+        return ls[0]
+
     def addTwoNumbers(self, l1: ListNode, l2: ListNode) -> ListNode:
         s = l1.val + l2.val
         l3 = ListNode(s if s < 10 else s - 10)
@@ -68,7 +76,7 @@ class Solution:
 if __name__ == "__main__":
     l1 = ListNode(2, ListNode(4, ListNode(3)))
 
-    l2 = ListNode(5, ListNode(6))
+    l2 = ListNode(5, ListNode(6, ListNode(4)))
     print(Solution().addTwoNumbers(l1, l2))
     # print(timeit.timeit(f"Solution().addTwoNumbers({l1}, {l2})",
     #                     number=10000,

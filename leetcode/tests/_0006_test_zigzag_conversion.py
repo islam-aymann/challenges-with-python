@@ -4,7 +4,7 @@ from leetcode._0006_zigzag_conversion import Solution
 
 
 class TestZigzagConversion(unittest.TestCase):
-    def test_something(self):
+    def test(self):
         self.assertEqual(Solution().convert("PAYPALISHIRING", 3),
                          "PAHNAPLSIIGYIR")
         self.assertEqual(Solution().convert("PAYPALISHIRING", 4),

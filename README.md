@@ -1,4 +1,18 @@
 # Challenges with Python
 
-###### This repo will contain most of the visited coding challenges 
-###### re-written in Pythonic fashion.
+> This repo will contain most of the visited coding challenges re-written in Pythonic fashion.
+
+## Leetcode:
+
+| #  | Name | Link | Difficulty | Solutions | Tests |
+| ---  | --- | --- | ---  | --- | --- |
+1    | Two Sum                                          | [Link](https://leetcode.com/problems/regular-expression-matching/)                    | `Easy`   | [Link](leetcode/_0001_two_sum.py)                                         | [Link](leetcode/tests/_0001_test_two_sum.py)                                         |
+2    | Add Two Numbers                                  | [Link](https://leetcode.com/problems/add-two-numbers)                                 | `Medium` | [Link](leetcode/_0002_add_two_numbers.py)                                 | [Link](leetcode/tests/_0002_test_add_two_numbers.py)                                 |
+3    | Longest substring Without Repeating Characters   | [Link](https://leetcode.com/problems/longest-substring-without-repeating-characters)  | `Medium` | [Link](leetcode/_0003_longest_subsring_without_repeating_characters.py)   | [Link](leetcode/tests/_0003_test_longest_subsring_without_repeating_characters.py)   |
+4    | Median of Two Sorted Arrays                      | [Link](https://leetcode.com/problems/median-of-two-sorted-arrays)                     | `Hard`   | [Link](leetcode/_0004_median_of_two_sorted_arrays.py)                     | [Link](leetcode/tests/_0004_test_median_of_two_sorted_arrays.py)                     |
+5    | Longest Palindromic Substring                    | [Link](https://leetcode.com/problems/longest-palindromic-substring)                   | `Medium` | [Link](leetcode/_0005_longest_palindromic_substring.py)                   | [Link](leetcode/tests/_0005_test_longest_palindromic_substring.py)                   |
+6    | Zigzag Conversion                                | [Link](https://leetcode.com/problems/zigzag-conversion)                               | `Medium` | [Link](leetcode/_0006_zigzag_conversion.py)                               | [Link](leetcode/tests/_0006_test_zigzag_conversion.py)                               |
+7    | Reverse Integer                                  | [Link](https://leetcode.com/problems/reverse-integer)                                 | `Easy`   | [Link](leetcode/_0007_reverse_integer.py)                                 | [Link](leetcode/tests/_0007_test_reverse_integer.py)                                 |
+8    | String to Integer                                | [Link](https://leetcode.com/problems/string-to-integer-atoi)                          | `Medium` | [Link](leetcode/_0008_string_to_int_atoi.py)                              | [Link](leetcode/tests/_0008_test_string_to_int_atoi.py)                              |
+9    | Palindromic Number                               | [Link](https://leetcode.com/problems/palindrome-number)                               | `Easy`   | [Link](leetcode/_0009_palindrome_number.py)                               | [Link](leetcode/tests/_0009_test_palindrome_number.py)                               |
+10   | Regular Expression Matching                      | [Link](https://leetcode.com/problems/regular-expression-matching)                     | `Hard`   | [Link](leetcode/_0010_regular_expression_matching.py)                     | [Link](leetcode/tests/_0010_test_regular_expression_matching.py)                     |

@@ -3,8 +3,8 @@ import unittest
 from leetcode._0005_longest_palindromic_substring import Solution
 
 
-class MyTestCase(unittest.TestCase):
-    def test_something(self):
+class TestLongestPalindromicSubstring(unittest.TestCase):
+    def test(self):
         self.assertIn(Solution().longestPalindrome("babad"), ["bab", "aba"])
         self.assertIn(Solution().longestPalindrome("cbbd"), ["bb"])
         self.assertIn(Solution().longestPalindrome("a"), ["a"])
