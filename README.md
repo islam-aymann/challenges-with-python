@@ -4,7 +4,7 @@
 
 ## Leetcode:
 
-| #  | Name | Link | Difficulty | Solutions | Tests |
+| #  | Name | Origin | Difficulty | Solutions | Tests |
 | ---  | --- | --- | ---  | --- | --- |
 1    | Two Sum                                          | [Link](https://leetcode.com/problems/regular-expression-matching/)                    | `Easy`   | [Link](leetcode/_0001_two_sum.py)                                         | [Link](leetcode/tests/_0001_test_two_sum.py)                                         |
 2    | Add Two Numbers                                  | [Link](https://leetcode.com/problems/add-two-numbers)                                 | `Medium` | [Link](leetcode/_0002_add_two_numbers.py)                                 | [Link](leetcode/tests/_0002_test_add_two_numbers.py)                                 |
