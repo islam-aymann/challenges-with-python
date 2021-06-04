@@ -1,6 +1,6 @@
 import unittest
 
-from leetcode._0002_add_two_numbers import Solution, ListNode
+from leetcode.n0002_add_two_numbers import Solution, ListNode
 
 
 class TestAddTwoNumbers(unittest.TestCase):

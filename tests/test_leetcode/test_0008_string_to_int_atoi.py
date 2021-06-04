@@ -1,5 +1,5 @@
 import unittest
-from leetcode._0008_string_to_int_atoi import Solution
+from leetcode.n0008_string_to_int_atoi import Solution
 
 
 class StringToIntAtoi(unittest.TestCase):

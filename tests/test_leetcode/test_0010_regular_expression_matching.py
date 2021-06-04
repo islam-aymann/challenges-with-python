@@ -1,6 +1,6 @@
 import unittest
 
-from leetcode._0010_regular_expression_matching import Solution
+from leetcode.n0010_regular_expression_matching import Solution
 
 
 class TestRegularExpressionMatching(unittest.TestCase):

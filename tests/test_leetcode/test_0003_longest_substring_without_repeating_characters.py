@@ -1,6 +1,6 @@
 import unittest
 
-from leetcode._0003_longest_subsring_without_repeating_characters import \
+from leetcode.n0003_longest_substring_without_repeating_characters import \
     Solution
 
 

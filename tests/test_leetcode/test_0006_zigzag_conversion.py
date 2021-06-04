@@ -1,6 +1,6 @@
 import unittest
 
-from leetcode._0006_zigzag_conversion import Solution
+from leetcode.n0006_zigzag_conversion import Solution
 
 
 class TestZigzagConversion(unittest.TestCase):

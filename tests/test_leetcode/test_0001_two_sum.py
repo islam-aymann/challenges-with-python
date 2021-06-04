@@ -1,6 +1,6 @@
 import unittest
 
-from leetcode._0001_two_sum import Solution
+from leetcode.n0001_two_sum import Solution
 
 
 class TestTwoSum(unittest.TestCase):

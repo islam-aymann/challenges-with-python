@@ -1,6 +1,6 @@
 import unittest
 
-from leetcode._0005_longest_palindromic_substring import Solution
+from leetcode.n0005_longest_palindromic_substring import Solution
 
 
 class TestLongestPalindromicSubstring(unittest.TestCase):

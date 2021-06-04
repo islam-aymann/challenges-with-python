@@ -1,6 +1,6 @@
 import unittest
 
-from leetcode._0007_reverse_integer import Solution
+from leetcode.n0007_reverse_integer import Solution
 
 
 class TestReverseInteger(unittest.TestCase):
