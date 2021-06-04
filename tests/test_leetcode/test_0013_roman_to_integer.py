@@ -3,7 +3,7 @@ import unittest
 from leetcode.n0013_roman_to_integer import Solution
 
 
-class TestIntegerToRoman(unittest.TestCase):
+class TestRomanToInteger(unittest.TestCase):
     def test(self):
         self.assertEqual(Solution().romanToInt("I"), 1)
         self.assertEqual(Solution().romanToInt("II"), 2)
