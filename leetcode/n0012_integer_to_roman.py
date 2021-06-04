@@ -135,6 +135,10 @@ class Solution:
             4: "IV",
             1: "I",
         }
+
+        if fixed.get(num):
+            return fixed[num]
+
         roman = ""
         for k in fixed:
             if k > num:
