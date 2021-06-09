@@ -3,7 +3,7 @@ import unittest
 from leetcode.n0016_3_sum_closest import Solution
 
 
-class Test3Sum(unittest.TestCase):
+class Test3SumClosest(unittest.TestCase):
     def test(self):
         self.assertEqual(
             Solution().threeSumClosest([-1, 0, 1, 2, -1, -4], 2), 2)
