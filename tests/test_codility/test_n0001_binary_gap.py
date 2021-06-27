@@ -3,8 +3,8 @@ import unittest
 from codility.n0001_binary_gap import solution
 
 
-class MyTestCase(unittest.TestCase):
-    def test_something(self):
+class TestBinaryGap(unittest.TestCase):
+    def test(self):
         self.assertEqual(solution(1041), 5)
         self.assertEqual(solution(15), 0)
         self.assertEqual(solution(32), 0)
