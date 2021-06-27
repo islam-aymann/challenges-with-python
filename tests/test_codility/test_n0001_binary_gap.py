@@ -1,6 +1,6 @@
 import unittest
 
-from codility.binary_gap.binary_gap import solution
+from codility.n0001_binary_gap import solution
 
 
 class MyTestCase(unittest.TestCase):
