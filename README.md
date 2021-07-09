@@ -39,8 +39,9 @@
 
 ## TESTDOME:
 
-| #    | Name                                             | Origin                                                                                       | Difficulty | Solutions                                                                 | Tests                                                                                    
-| ---- | ------------------------------------------------ | -------------------------------------------------------------------------------------------- |  --------- | ------------------------------------------------------------------------  | ---------------------------------------------------------------------------------------- 
-| 1    | Binary Gap                                       | [Link](https://www.testdome.com/questions/python/league-table/40262?visibility=3&skillId=9)  | `Hard`     |[Link](testdome/n0001_league_table.py)                                     |                                       
+| #    | Name                                             | Origin                                                                                            | Difficulty | Solutions                                                                 | Tests                                                                                    
+| ---- | ------------------------------------------------ | ------------------------------------------------------------------------------------------------- |  --------- | ------------------------------------------------------------------------  | ---------------------------------------------------------------------------------------- 
+| 1    | League Table                                     | [Link](https://www.testdome.com/questions/python/league-table/40262?visibility=3&skillId=9)       | `Hard`     |[Link](testdome/n0001_league_table.py)                                     |                                       
+| 2    | Binary Gap                                       | [Link](https://www.testdome.com/questions/python/ice-cream-machine/40386?visibility=3&skillId=9)  | `Easy`     |[Link](testdome/n0002_ice_cream_machine.py)                                |                                       
 
 
