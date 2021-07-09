@@ -34,3 +34,13 @@
 | ---- | ------------------------------------------------ | ------------------------------------------------------------------------------------- |  --------- | ------------------------------------------------------------------------  | ---------------------------------------------------------------------------------------- 
 | 1    | Binary Gap                                       | [Link](https://app.codility.com/programmers/lessons/1-iterations/binary_gap/)         | `Painless` |[Link](codility/n0001_binary_gap.py)                                      | [Link](tests/test_codility/test_n0001_binary_gap.py)                                         
 | 2    | Cyclic Rotation                                  | [Link](https://app.codility.com/programmers/lessons/2-arrays/cyclic_rotation/)        | `Painless` |[Link](codility/n0002_cyclic_rotation.py)                                 | [Link](tests/test_codility/test_n0002_cyclic_rotation.py)                                         
+
+
+
+## TESTDOME:
+
+| #    | Name                                             | Origin                                                                                       | Difficulty | Solutions                                                                 | Tests                                                                                    
+| ---- | ------------------------------------------------ | -------------------------------------------------------------------------------------------- |  --------- | ------------------------------------------------------------------------  | ---------------------------------------------------------------------------------------- 
+| 1    | Binary Gap                                       | [Link](https://www.testdome.com/questions/python/league-table/40262?visibility=3&skillId=9)  | `Hard`     |[Link](testdome/n0001_league_table.py)                                     |                                       
+
+
