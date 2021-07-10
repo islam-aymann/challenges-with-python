@@ -50,5 +50,6 @@
 | 7    | Quadratic Equation                               | [Link](https://www.testdome.com/questions/python/quadratic-equation/56614?visibility=3&skillId=9) | `Easy` 10m |[Link](testdome/problems/n0007_quadratic_equation.py)          |                                       
 | 8    | Song                                             | [Link](https://www.testdome.com/questions/python/song/48847?visibility=3&skillId=9)               | `Easy` 15m |[Link](testdome/problems/n0008_song.py)                        |                                       
 | 9    | Two Sum                                          | [Link](https://www.testdome.com/questions/python/two-sum/39820?visibility=3&skillId=9)            | `Easy` 30m |[Link](testdome/problems/n0009_two_sum.py)                     |                                       
+| 10   | Train Composition                                | [Link](https://www.testdome.com/questions/python/train-composition/60696?visibility=3&skillId=9)  | `Hard` 20m |[Link](testdome/problems/n0010_train_composition.py)           |                                       
 
 
