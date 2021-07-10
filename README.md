@@ -45,5 +45,6 @@
 | 2    | Ice Cream Machine                                | [Link](https://www.testdome.com/questions/python/ice-cream-machine/40386?visibility=3&skillId=9)  | `Easy`     |[Link](testdome/n0002_ice_cream_machine.py)                                |                                       
 | 3    | Binary Search Tree                               | [Link](https://www.testdome.com/questions/python/binary-search-tree/35503?visibility=3&skillId=9) | `Easy`     |[Link](testdome/n0003_binary_search_tree.py)                               |                                       
 | 4    | Merge Names                                      | [Link](https://www.testdome.com/questions/python/merge-names/39819?visibility=3&skillId=9)        | `Easy`     |[Link](testdome/n0004_merge_names.py)                                      |                                       
+| 5    | Sorted Search                                    | [Link](https://www.testdome.com/questions/python/sorted-search/40608?visibility=3&skillId=9)      | `Hard`     |[Link](testdome/n0005_sorted_search.py)                                      |                                       
 
 
