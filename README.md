@@ -47,5 +47,6 @@
 | 4    | Merge Names                                      | [Link](https://www.testdome.com/questions/python/merge-names/39819?visibility=3&skillId=9)        | `Easy`     |[Link](testdome/problems/n0004_merge_names.py)                 |                                       
 | 5    | Sorted Search                                    | [Link](https://www.testdome.com/questions/python/sorted-search/40608?visibility=3&skillId=9)      | `Hard`     |[Link](testdome/problems/n0005_sorted_search.py)               |                                       
 | 6    | File Owners                                      | [Link](https://www.testdome.com/questions/python/file-owners/36510?visibility=3&skillId=9)        | `Easy` 10m |[Link](testdome/problems/n0006_file_owners.py)                 |                                       
+| 7    | Quadratic Equation                               | [Link](https://www.testdome.com/questions/python/quadratic-equation/56614?visibility=3&skillId=9) | `Easy` 10m |[Link](testdome/problems/n0007_quadratic_equation.py)          |                                       
 
 

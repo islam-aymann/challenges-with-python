@@ -1,5 +1,5 @@
-import timeit
 from math import sqrt
+
 
 class IceCreamMachine:
     def __init__(self, ingredients, toppings):
