@@ -27,6 +27,7 @@
 | 19   | Remove nth node form end of list                 | [Link](https://leetcode.com/problems/remove-nth-node-from-end-of-list)                | `Medium`   | [Link](leetcode/n0019_remove_nth_node_from_end_of_list.py)                | [Link](tests/test_leetcode/test_0019_remove_nth_node_from_end_of_list.py)                                           
 | 20   | Valid Parentheses                                | [Link](https://leetcode.com/problems/valid-parentheses)                               | `Easy`     | [Link](leetcode/n0020_valid_parentheses.py)                               | [Link](tests/test_leetcode/test_0020_valid_parentheses.py)                                           
 | 21   | Merge Two Sorted Lists                           | [Link](https://leetcode.com/problems/merge-two-sorted-lists)                          | `Easy`     | [Link](leetcode/n0021_merge_two_sorted_lists.py)                          | [Link](tests/test_leetcode/test_0021_merge_two_sorted_lists.py)                   
+| 22   | Generate Parentheses                             | [Link](https://leetcode.com/problems/generate-parentheses)                            | `Medium`     | [Link](leetcode/n0022_generate_parentheses.py)                          | [Link](tests/test_leetcode/test_n0022_generate_parentheses.py)                   
 
 ## Codility:
 
