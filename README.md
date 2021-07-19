@@ -30,6 +30,14 @@
 | 22   | Generate Parentheses                             | [Link](https://leetcode.com/problems/generate-parentheses)                            | `Medium`   | [Link](leetcode/n0022_generate_parentheses.py)                            | [Link](tests/test_leetcode/test_n0022_generate_parentheses.py)                   
 | 23   | Merge K Sorted Lists                             | [Link](https://leetcode.com/problems/merge-k-sorted-lists)                            | `Hard`     | [Link](leetcode/n0023_merge_k_sorted_lists.py)                            | [Link](tests/test_leetcode/test_n0023_merge_k_sorted_lists.py)                   
 
+
+## HackerRank:
+
+| #    | Name                                             | Origin                                                                                | Difficulty | Solutions                                                                 | Tests                                                                                    
+| ---- | ------------------------------------------------ | ------------------------------------------------------------------------------------- | ---------- | ------------------------------------------------------------------------  | ---------------------------------------------------------------------------------------- 
+| 1    | Nested Lists                                     | [Link](https://www.hackerrank.com/challenges/nested-list/problem?isFullScreen=true)   | `Easy`     | [Link](hackerrank/python/n0001_nested_lists.py)                           |                                        
+
+
 ## Codility:
 
 | #    | Name                                             | Origin                                                                                | Difficulty | Solutions                                                                 | Tests                                                                                    
