@@ -3,7 +3,7 @@ import timeit
 
 def find_the_percentage_of(n, student_marks, query_name):
     student = student_marks[query_name]
-    print(f"{sum(student)/3:.2f}")
+    print(f"{sum(student)/n:.2f}")
 
 
 if __name__ == "__main__":
