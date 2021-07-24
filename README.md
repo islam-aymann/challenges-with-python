@@ -33,14 +33,15 @@
 
 ## HackerRank:
 ### Python:
-| #    | Name                                             | Origin                                                                                | Difficulty | Solutions                                                                 | Tests                                                                                    
-| ---- | ------------------------------------------------ | ------------------------------------------------------------------------------------- | ---------- | ------------------------------------------------------------------------  | ---------------------------------------------------------------------------------------- 
-| 1    | Nested Lists                                     | [Link](https://www.hackerrank.com/challenges/nested-list/problem?isFullScreen=true)   | `Easy`     | [Link](hackerrank/python/n0001_nested_lists.py)                           |                                        
+| #    | Name                                             | Origin                                                                                      | Difficulty | Solutions                                                                 | Tests                                                                                    
+| ---- | ------------------------------------------------ | ------------------------------------------------------------------------------------------- | ---------- | ------------------------------------------------------------------------  | ---------------------------------------------------------------------------------------- 
+| 1    | Nested Lists                                     | [Link](https://www.hackerrank.com/challenges/nested-list/problem?isFullScreen=true)         | `Easy`     | [Link](hackerrank/python/n0001_nested_lists.py)                           |                                        
 
 ### Problem Solving:
-| #    | Name                                             | Origin                                                                                | Difficulty | Solutions                                                                 | Tests                                                                                    
-| ---- | ------------------------------------------------ | ------------------------------------------------------------------------------------- | ---------- | ------------------------------------------------------------------------  | ---------------------------------------------------------------------------------------- 
-| 1    | Dynamic Array                                    | [Link](https://www.hackerrank.com/challenges/dynamic-array/problem?isFullScreen=true) | `Easy`     | [Link](hackerrank/problem_solving/n0001_dynamic_array.py)                 | [Link](tests/test_hackerrank/test_problem_solving/test_n0001_dynamic_array.py)                                       
+| #    | Name                                             | Origin                                                                                      | Difficulty | Solutions                                                                 | Tests                                                                                    
+| ---- | ------------------------------------------------ | ------------------------------------------------------------------------------------------- | ---------- | ------------------------------------------------------------------------  | ---------------------------------------------------------------------------------------- 
+| 1    | Dynamic Array                                    | [Link](https://www.hackerrank.com/challenges/dynamic-array/problem?isFullScreen=true)       | `Easy`     | [Link](hackerrank/problem_solving/n0001_dynamic_array.py)                 | [Link](tests/test_hackerrank/test_problem_solving/test_n0001_dynamic_array.py)                                       
+| 2    | Left Rotation                                    | [Link](https://www.hackerrank.com/challenges/array-left-rotation/problem?isFullScreen=true) | `Easy`     | [Link](hackerrank/problem_solving/n0002_left_rotation.py)                 | [Link](tests/test_hackerrank/test_problem_solving/test_n0002_left_rotation.py)                                       
 
 
 ## Codility:
