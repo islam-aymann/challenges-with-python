@@ -42,6 +42,7 @@
 | ---- | ------------------------------------------------ | ------------------------------------------------------------------------------------------- | ---------- | ------------------------------------------------------------------------  | ---------------------------------------------------------------------------------------- 
 | 1    | Dynamic Array                                    | [Link](https://www.hackerrank.com/challenges/dynamic-array/problem?isFullScreen=true)       | `Easy`     | [Link](hackerrank/problem_solving/n0001_dynamic_array.py)                 | [Link](tests/test_hackerrank/test_problem_solving/test_n0001_dynamic_array.py)                                       
 | 2    | Left Rotation                                    | [Link](https://www.hackerrank.com/challenges/array-left-rotation/problem?isFullScreen=true) | `Easy`     | [Link](hackerrank/problem_solving/n0002_left_rotation.py)                 | [Link](tests/test_hackerrank/test_problem_solving/test_n0002_left_rotation.py)                                       
+| 2    | Sparse Arrays                                    | [Link](https://www.hackerrank.com/challenges/sparse-arrays/problem?isFullScreen=true)       | `Medium`   | [Link](hackerrank/problem_solving/n0003_sparse_arrays.py)                 | [Link](tests/test_hackerrank/test_problem_solving/test_n0003_sparse_arrays.py)                                       
 
 
 ## Codility:
